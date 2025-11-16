@@ -18,7 +18,7 @@ This AI tutor uses Google’s Gemini 1.5 Flash model and a Retrieval-Augmented G
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ai-tutor-local.git](https://github.com/your-username/ai-tutor-local.git)
+    git clone [https://github.com/AnuragRai19/ai-tutor-local.git](https://github.com/AnuragRai19/ai-tutor-local.git)
     cd ai-tutor-local
     ```
 
