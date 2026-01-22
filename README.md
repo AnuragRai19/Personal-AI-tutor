@@ -5,7 +5,7 @@
 This project is a Retrieval-Augmented Generation (RAG) application that transforms static PDF textbooks into an interactive AI tutor. It reads documents, answers student queries with citation-based accuracy, and generates dynamic quizzes to test retention.
 
 ## 🧠 Problem Statement
-Students often struggle to revise large textbooks or lecture materials efficiently. Traditional retrieval methods (Ctrl+F) lack context, and creating manual flashcards is time-consuming. This project automates the study process using Generative AI.
+Students often struggle to revise large textbooks or lecture materials efficiently. Traditional retrieval methods lack context, and creating manual flashcards is time-consuming. This project automates the study process using Generative AI.
 
 ## 🛠️ Tech Stack
 * **LLM:** Google Gemini 1.5 Flash
